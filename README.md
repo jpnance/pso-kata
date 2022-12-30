@@ -10,11 +10,11 @@ PSO is a fantasy football league comprised of several franchises. Each franchise
 
 In this phase, we'll start by creating notions of a league, a franchise, and a player and implement those add, drop, and trade actions. Specifically, we'll support the following features:
 
-* Add franchise to league
-* Add player to franchise
-* Drop player from franchise
+* Register a player with the league
+* Add a player to a franchise
+* Drop a player from a franchise
 * Trade two players from one franchise to another
-* Print the transaction history for the league in the order in which they occurred
+* Maintain a transaction history for the league in the order in which they occur
 
 ### Acceptance Criteria
 Before any adds, drops, or trades have been made, printing out the transaction history for the league should result in:
