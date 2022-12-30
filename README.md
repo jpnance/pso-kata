@@ -17,13 +17,14 @@ In this phase, we'll start by creating notions of a league, a franchise, and a p
 * Maintain a transaction history for the league in the order in which they occur
 
 ### Acceptance Criteria
-Before any adds, drops, or trades have been made, printing out the transaction history for the league should result in:
+Before any adds, drops, or trades have been made, printing the transaction history should result in:
 
 ```
 No transactions.
 ```
 
-After some adds, drops, and trades have been made, printing out the transaction history for the league should result in:
+After some adds, drops, and trades have been made, printing the transaction history should result in:
+
 ```
 1. Charles adds Vince Young
 2. Luke adds Willie Snead
