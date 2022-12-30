@@ -15,6 +15,11 @@ In this phase, we'll start by implementing those basic register/add/drop transac
 * Drop a player from a franchise back into the league's player pool
 * Maintain a transaction history for the league, preserving the order in which each transaction occurs
 
+We'll also impose the following constraints:
+
+* The rights to a player may not be owned by two franchises at the same time
+* There may not be two players with exactly the same name in the player pool
+
 ### Acceptance Criteria
 Before any adds or drops have been made, printing the transaction history should result in:
 
