@@ -11,6 +11,7 @@ PSO is a fantasy football league comprised of several franchises. Each franchise
 In this phase, we'll start by creating notions of a league, a franchise, and a player and implement those add, drop, and trade actions. Specifically, we'll support the following features:
 
 * Register a player with the league
+* Register a franchise with the league
 * Add a player to a franchise
 * Drop a player from a franchise
 * Trade two players from one franchise to another
