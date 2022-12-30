@@ -20,6 +20,11 @@ In this phase, we'll start by creating notions of a league, a franchise, and a p
 Before any adds, drops, or trades have been made, printing out the transaction history for the league should result in:
 
 ```
+No transactions.
+```
+
+After some adds, drops, and trades have been made, printing out the transaction history for the league should result in:
+```
 1. Charles adds Vince Young
 2. Luke adds Willie Snead
 3. Patrick adds Joe Burrow
